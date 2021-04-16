@@ -1,4 +1,9 @@
-### Hi there 👋
+### --- Welcome ---
+#### I spend most of my time doing university work but when I do have a free second I read, code, eat and sleep. <br/>Linux is my main OS, Sublime Text is my favorite IDE and python is my native tongue.
+#### Interests:
+   * Software Development
+   * Cyber Security
+   * Web Development
 
 <!--
 **0xWra1th/0xWra1th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
