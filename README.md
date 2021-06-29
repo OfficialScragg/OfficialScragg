@@ -1,21 +1,21 @@
 ### --- Welcome ---
-#### I spend most of my time doing university work but when I do have a free second I read, code, eat and sleep. <br/>Linux is my main OS, Sublime Text is my favorite IDE and python is my native tongue.
+
+I am currently working on cyber security certifications(Sec+, eWAPT) while studying CS at university but in my spare time I want to work on a custom pentesting tool set. Bruteforcers, enumerations, scanners, backdoors and my own implementation of exploits.
+
+#### Stack:
+   * OS: Ubuntu Linux
+   * IDE: VSCode
+   * Frameworks:
+      * Django
+      * NestJS
+   
 #### Interests:
    * Software Development
    * Cyber Security
    * Web Development
 
-<!--
-**0xWra1th/0xWra1th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Languages:
+   * Python
+   * Java
+   * C++
+   * Web Languages: JavaScript, HTTP, CSS, etc...
