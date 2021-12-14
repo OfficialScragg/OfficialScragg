@@ -5,6 +5,7 @@ I am currently working on cyber security certifications(Sec+, OSCP) while studyi
    * Python, Java, C++, JavaScript, TypeScript, HTML, CSS, PHP, Assembly, SQL and more...
    * Django web framework
    * Node.js
+   * Angular
    * Dev Ops
    * Linux Administration
    * Penetration Testing
