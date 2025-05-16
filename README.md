@@ -3,6 +3,7 @@
    * BScHons Computer Science
    * OSCP
    * eJPT
+   * CREST CRT
 
 ### I have experience with 
    * Python, Java, C/C++, x86 Assembly, JavaScript, TypeScript, HTML, CSS,  SQL and more...
