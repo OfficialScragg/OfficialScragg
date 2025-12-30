@@ -2,7 +2,7 @@
 ### Qualifications
    * BScHons Computer Science
    * OSCP
-   * eJPT
+   * eJWPTX
    * CREST CRT
 
 ### I have experience with 
