@@ -2,6 +2,7 @@
 ### Qualifications
    * BScHons Computer Science
    * OSEP
+   * OSWE
    * OSCP
    * eJWPTX
    * CREST CRT
